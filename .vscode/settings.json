@@ -1,0 +1,7 @@
+{
+    "application.experimental.rendererProfiling": true,
+    "cline.mcp.mode": "server-use-only",
+    "cline.vsCodeLmModelSelector": {
+        
+    }
+}

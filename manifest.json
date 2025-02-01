@@ -1,0 +1,15 @@
+{
+  "name": "PromptGenius",
+  "version": "1.0.0",
+  "description": "Unleash your inner genius with powerful AI prompts",
+  "author": "AnythingLLM Community",
+  "categories": [
+    "Productivity",
+    "AI Assistance",
+    "Creativity"
+  ],
+  "config": {
+    "contextAwareness": true,
+    "dynamicPrompts": true
+  }
+}
